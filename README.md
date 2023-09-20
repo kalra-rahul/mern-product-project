@@ -44,4 +44,4 @@ npm run dev
 npm run server
 ```
 
-![Landing Page](./images/landing.png)
+![Landing Page](./images/Landing.PNG)
