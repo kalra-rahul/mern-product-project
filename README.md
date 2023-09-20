@@ -43,3 +43,5 @@ npm run dev
 # Run backend only
 npm run server
 ```
+
+![Landing Page](./images/landing.png)
